@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nghi 👋
 
-<!--
-**nghidTANG/nghidTANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student in Sydney who likes breaking, building and fixing things in my homelab.
 
-Here are some ideas to get you started:
+### 🔧 Projects
+| Repo | What it is |
+|---|---|
+| ad-homelab | Windows Server 2022 Active Directory lab: DC, domain-joined clients, DNS |
+| proxmox-homelab | My Proxmox server: VMs, isolated networks, backups and troubleshooting notes |
+| helpdesk-lab | Practising service desk tickets end to end *(coming soon)* |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools I use
+Windows Server · Active Directory · Proxmox · Linux · Cisco · Wireshark · AWS · Git · Python
+
